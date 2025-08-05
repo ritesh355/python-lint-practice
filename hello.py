@@ -1,4 +1,4 @@
-def hello():
+def hello):
     print("Hello World")
     x = 5
     print("Too many spaces in parentheses")
